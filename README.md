@@ -1,6 +1,6 @@
 # Fastest, Cheapest, and Easiest Pathfinder
 
-Command Line Application to find the fastest, cheapest and easiest path in Vancouver's public transport system using Java employing Dijkstra Algorithm.
+Application to find the fastest, cheapest and easiest path in Vancouver's public transport system using Java employing Dijkstra Algorithm.
 
 <img src="screenshots/Slide2.JPG" height="720" width="1000">
 
